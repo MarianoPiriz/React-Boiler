@@ -1,0 +1,15 @@
+{
+  "name": "reactboilerplate",
+  "version": "1.0.0",
+  "description": "Boiler Plaate React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "React Boiler Plate"
+  },
+  "author": "Mariano Piriz",
+  "license": "ISC"
+}
