@@ -11,5 +11,8 @@
     "url": "React Boiler Plate"
   },
   "author": "Mariano Piriz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
