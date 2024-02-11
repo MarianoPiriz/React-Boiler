@@ -1,2 +1,0 @@
-#test
-#REACT BOILER PLATE
